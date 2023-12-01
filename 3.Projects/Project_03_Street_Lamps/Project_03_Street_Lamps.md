@@ -3,11 +3,13 @@
 ![Img](../media/311.png)
 
 ## 1. Introduction
+
 Street lamps are ubiquitous in our daily life. For example, some public street lamps come on automatically at night and go off automatically during the day. Do you want to know why? Let’s make a small street lamp together. 
 
 Look at the tools first.
 
 ## 2. Components
+
 |![Img](../media/KidsunoMainboard.png)|![Img](../media/Photoresistor.png)|![Img](../media/WhiteLED.png)|
 | :--: | :--: | :--: |
 |Kidsuno Mainboard×1|Photoresistor×1|White LED Module×1|
@@ -17,7 +19,8 @@ Look at the tools first.
 ![Img](../media/312.png)
 
 ## 3. Installation Steps
-Please refer to the following link：[https://www.dropbox.com/scl/fo/whacdlki5y44kevau03qa/h?dl=0&rlkey=ogbigsw7lxv8zhkvr1oqhlkmz](https://www.dropbox.com/scl/fo/whacdlki5y44kevau03qa/h?dl=0&rlkey=ogbigsw7lxv8zhkvr1oqhlkmz)
+
+Please refer to the following link：https://www.dropbox.com/scl/fo/whacdlki5y44kevau03qa/h?dl=0&rlkey=ogbigsw7lxv8zhkvr1oqhlkmz
 
 ## 4. Function: Detect the Light Intensity 
 
@@ -43,6 +46,7 @@ This block is used to set print mode for the serial port. **warp** means line fe
 It is used to read the analog signal value of the specified pin（range：0~1023)
 
 ## 7. Write the Program
+
 ① Drag the instruction block![Img](../media/318.png) in the **Events** module to the script area.
 
 ![Img](../media/319.png)
@@ -76,6 +80,7 @@ It is used to read the analog signal value of the specified pin（range：0~1023
 ![Img](../media/333.png)
 
 ## 8. Test Result
+
 Click ![Img](../media/334.png) to upload the complete program to the kidsuno mainboard and power up, then click ![Img](../media/335.png) in the serial monitor area to set the baud rate to 9600. Then the serial monitor will print the analog value read by the photoresistor. When the light intensity in the environment where the photoresistor is located gradually decreases, the analog value increases gradually, otherwise, the analog value decreases.
 
 ![Img](../media/917.png) 
@@ -94,6 +99,7 @@ Click ![Img](../media/334.png) to upload the complete program to the kidsuno mai
 It is a conditional statement code executing <span style="color: rgb(255, 76, 65);">if-then-else</span> function: If the logical judgment statement in ![Img](../media/338.png) is satisfied, the code statement below **then** is executed, otherwise, the code below **else** is executed.
 
 ## 11. Flow Chart 
+
 First, set the LED to off. When the light intensity value read by the photoresistor is less than 200, the LED will be on, otherwise, it will be off.
 
 ![Img](../media/339.png)
@@ -123,6 +129,7 @@ First, set the LED to off. When the light intensity value read by the photoresis
 
 
 ## 13. Test Result
+
 Click ![Img](../media/334.png) to upload the complete program to the kidsuno mainboard and power up, then use your hands to cover the photoresistor . When the light intensity value read by the photoresistor is less than 200, the LED will be on, otherwise, it will be off.
 
 ![Img](./media/img-20230714083023.png)

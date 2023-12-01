@@ -5,6 +5,7 @@
 ![Img](../media/111.png)
 
 ## 1. Introduction
+
 I met a big traffic jam on my way to school today. The red light at the intersection where I waited lasted very long and the green light flashed a few times and then changed to yellow. It seems that there's something wrong with the traffic light's digital signal. 
 
 Can we use a traffic light module to simulate the working principle of traffic lights?  
@@ -13,11 +14,13 @@ Let's take a look at the tools first.
 
 
 ## 2. Components
+
 |![Img](../media/KidsunoMainboard.png)|![Img](../media/TrafficLightModule.png)|![Img](../media/ConnectionWire.png)|
 | :--: | :--: | :--: |
 |Kidsuno Mainboard×1|Traffic Light Module×1|Connection Wire×1|
 |![Img](../media/USBCable.png)| ![Img](../media/TrafficLights.png) | |
 |USB Cable×1| Traffic Lights×1 | |
+
 ![Img](../media/112.png)
 
 ## 3. Component Knowledge
@@ -29,14 +32,14 @@ Let's take a look at the tools first.
 
 ## 4. Installation of Traffic Lights
 
-Please refer to the following link：[https://www.dropbox.com/preview/keyestudio%20Robot/6.Kidsbits/KD3017%20Kidsbits%20Intelligent%20Traffic%20System%20Kit%20for%20Arduino/4.%20Intelligent%20Traffic%C2%A0System%20Assembly/Project%2001%EF%BC%9ATraffic%20Lights/Installation%20Steps.pdf?context=content_suggestions&role=work](https://www.dropbox.com/preview/keyestudio%20Robot/6.Kidsbits/KD3017%20Kidsbits%20Intelligent%20Traffic%20System%20Kit%20for%20Arduino/4.%20Intelligent%20Traffic%C2%A0System%20Assembly/Project%2001%EF%BC%9ATraffic%20Lights/Installation%20Steps.pdf?context=content_suggestions&role=work)
-
+Please refer to the following link：https://www.dropbox.com/scl/fo/whacdlki5y44kevau03qa/h?dl=0&rlkey=ogbigsw7lxv8zhkvr1oqhlkmz
 
 ## 5. Function: Light Up the Traffic Lights
 
 ![Img](../media/114.png)
 
 ## 6. Wiring Diagram
+
 Connect the kidsuno mainboard and computer via a USB cable, and connect the traffic light module to the No.1 interface of the mainboard.
 
 ![Img](../media/115.png)
@@ -71,6 +74,7 @@ Set **high** or **low** to the specified pin. Select **high** means to set high 
 
 
 ## 9. Test Result
+
 Click ![Img](../media/125.png) to upload the complete program to the kidsuno mainboard and power up, then the lights on the traffic light module will be on. It seems pretty amazing, right?
 
 ![Img](../media/911.png)
@@ -86,6 +90,7 @@ Click ![Img](../media/125.png) to upload the complete program to the kidsuno mai
 This is a delay block, and change the number 1 to the delayed time
 
 ## 12. Write the Program
+
 ①  Write the program according to the knowledge learned before and refer to the last program code.
 
 ![Img](../media/128.png)
@@ -103,6 +108,7 @@ This is a delay block, and change the number 1 to the delayed time
 ![Img](../media/131.png)
 
 ## 13：Test Result 
+
 Click ![Img](../media/125.png) to upload the complete program to the kidsuno mainboard and power up, then the lights on the traffic light module will go on and then off.
 
 ![Img](../media/912.png)
@@ -115,6 +121,7 @@ Click ![Img](../media/125.png) to upload the complete program to the kidsuno mai
 ![Img](../media/132.png)
 
 ## 15. Flow Chart 
+
 First set the three LED lights to off, then the red light will be on for 5 s then go off, then the yellow light will flash for 3 times then go off, then the green light will be on for 5 s then go off.
 
 ![Img](../media/133.png)
@@ -148,6 +155,7 @@ This is a conditional loop control statement and it will exit the loop  when the
 
 
 ## 18.Test Result 
+
 Click ![Img](../media/125.png) to upload the complete program to the kidsuno mainboard and power up, then the red light will be on for 5 s then go off, then the yellow light will flash for 3 times then go off, then the green light will be on for 5 s then go off and continue the cycle.
 
 ![Img](../media/914.png)

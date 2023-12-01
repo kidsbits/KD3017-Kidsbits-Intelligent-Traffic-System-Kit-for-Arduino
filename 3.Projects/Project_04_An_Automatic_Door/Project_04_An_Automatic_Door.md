@@ -3,6 +3,7 @@
 ![Img](../media/411.png)
 
 ## 1. Introduction
+
 I find that there are many interesting inventions in our life. Last time I went to a library with my classmates to borrow a book about learning robots. When we came to the door, it opened automatically.
 
 How magical it is! Today, let's make a device that can open the door automatically. 
@@ -10,6 +11,7 @@ How magical it is! Today, let's make a device that can open the door automatical
 Let’s look at the tools first.
 
 ## 2. Components
+
 |![Img](../media/KidsunoMainboard.png)|![Img](../media/PIRMotionSensor.png)|![Img](../media/270Servo.png)|
 | :--: | :--: | :--: |
 |Kidsuno Mainboard×1|PIR Motion Sensor×1|270°Servo×1|
@@ -23,6 +25,7 @@ Let’s look at the tools first.
 ![Img](../media/413.png)
 
 ## 4. Wiring Diagram
+
 Connect the kidsuno mainboard and computer via a USB cable, and connect the servo to the G, V and D13 interface of the mainboard. The brown wire is connected to G, the red wire is connected to V and the orange wire is connected to D13.
 
 ![Img](../media/414.png)
@@ -50,6 +53,7 @@ Set the rotation angle of the servo and the delayed time for a specified pin
 
 
 ## 7. Write the Program
+
 ① Drag the instruction block![Img](../media/420.png) in the **Events** module to the script area.
 
 ![Img](../media/421.png)
@@ -80,12 +84,15 @@ Set the rotation angle of the servo and the delayed time for a specified pin
 ![Img](../media/432.png)
 
 ## 8. Test Result
+
 Click ![Img](../media/433.png) to upload the complete program to the kidsuno mainboard and power up, then the servo will rotate from 93°to 62° to 31° to 0° and rotate from 0° to 31° to 62° to 93°.
 
 ## 9. Installation Steps
-Please refer to the following link：[https://www.dropbox.com/scl/fo/whacdlki5y44kevau03qa/h?dl=0&rlkey=ogbigsw7lxv8zhkvr1oqhlkmz](https://www.dropbox.com/scl/fo/whacdlki5y44kevau03qa/h?dl=0&rlkey=ogbigsw7lxv8zhkvr1oqhlkmz)
+
+Please refer to the following link：https://www.dropbox.com/scl/fo/whacdlki5y44kevau03qa/h?dl=0&rlkey=ogbigsw7lxv8zhkvr1oqhlkmz
 
 ## 10. Wiring Diagram
+
 Connect the kidsuno mainboard and computer via a USB cable, and connect the servo to the G, V and D13 interface of the mainboard and the PIR motion sensor to the No.1 interface of the mainboard.
 
 The brown wire is connected to G, the red wire is connected to V and the orange wire is connected to D13.
@@ -105,6 +112,7 @@ This is the digital signal (0 or 1) for a specified pin.
 
 
 ## 13. Write the Program
+
 ① Drag the instruction block ![Img](../media/437.png) in the **Events** module to the script area.
 
 ![Img](../media/438.png)
@@ -139,6 +147,7 @@ This is the digital signal (0 or 1) for a specified pin.
 
 
 ## 14. Test Result
+
 Click![Img](../media/453.png) to upload the complete program to the kidsuno mainboard and power up, then click ![Img](../media/454.png) in the serial monitor area to set the baud rate to 9600. When the PIR motion sensor detects a person or animal moving, the serial monitor prints a digital signal 1, otherwise it prints 0.
 
 ![Img](../media/918.png)
@@ -150,6 +159,7 @@ Click![Img](../media/453.png) to upload the complete program to the kidsuno main
 ![Img](../media/456.png)
 
 ## 16. Flow Chart 
+
 First, set the angle of the servo to 93°. When the PIR motion sensor detects a person or animal passing by, it will rotate to 0° and it will not rotate if no man or animal is passing by.
 
 ![Img](../media/457.png)
@@ -183,6 +193,7 @@ First, set the angle of the servo to 93°. When the PIR motion sensor detects a 
 
 
 ## 18. Test Result
+
 Click![Img](../media/453.png) to upload the complete program to the kidsuno mainboard and power up. When the PIR motion sensor detects a person or animal passing by, it will rotate to 0° and the door will be opened automatically , and it will not rotate if no man or animal is passing by and the door will not be opened.
 
 ![Img](../media/img-20230714083105.png)

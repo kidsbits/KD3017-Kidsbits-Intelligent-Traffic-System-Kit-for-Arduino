@@ -3,11 +3,13 @@
 ![Img](../media/811.png)
 
 ## 1. Introduction
+
 We have learned a host of projects before, can we put them together to make an integrated traffic system？Maybe you can't wait to do it，let’s get started!
 
 The following are the tools we need.
 
 ## 2. Components
+
 |![Img](../media/KidsunoMainboard.png)|![Img](../media/TrafficLightModule.png)|![Img](../media/ActiveBuzzer.png)|![Img](../media/Photoresistor.png)|
 | :--: | :--: | :--: | :--: |
 |Kidsuno Mainboard×1|Traffic Light Module×1|Active Buzzer×1|Photoresistor×1|
@@ -24,7 +26,8 @@ USB Cable×1|Integrated Traffic System×1 | | |
 
 
 ## 4. Installation Steps 
-Please refer to the following link：[https://www.dropbox.com/scl/fo/whacdlki5y44kevau03qa/h?dl=0&rlkey=ogbigsw7lxv8zhkvr1oqhlkmz](https://www.dropbox.com/scl/fo/whacdlki5y44kevau03qa/h?dl=0&rlkey=ogbigsw7lxv8zhkvr1oqhlkmz)
+
+Please refer to the following link：https://www.dropbox.com/scl/fo/whacdlki5y44kevau03qa/h?dl=0&rlkey=ogbigsw7lxv8zhkvr1oqhlkmz
 
 ## 5. Wiring Diagram
 
@@ -80,6 +83,7 @@ Add **Matrix 8*8 IIC** Display
 ![Img](../media/821.png)
 
 ## 9. Test Result
+
 Click![Img](../media/822.png) to upload the complete program to the kidsuno mainboard and power up. Then the effect of the intelligent integrate traffic system will appear.
 
 ![Img](../media/img-20230714083338.png)

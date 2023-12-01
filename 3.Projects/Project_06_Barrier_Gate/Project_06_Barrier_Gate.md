@@ -3,6 +3,7 @@
 ![Img](../media/611.png)
 
 ## 1. Introduction
+
 Last time my dad drove me to eat seafood, however, when our car came to the barrier gate of the parking lot, the gate rose automatically, and when the car passed, it fell automatically. 
 
 Maybe you're as curious about this device as I am, let’s make a barrier gate can automatically rise and fall together!
@@ -10,6 +11,7 @@ Maybe you're as curious about this device as I am, let’s make a barrier gate c
 The following are the tools we need.
 
 ## 2. Components
+
 |![Img](../media/KidsunoMainboard.png)|![Img](../media/ObstacleAvoidanceSensor.png)|![Img](../media/270Servo.png)|
 | :--: | :--: | :--: |
 |Kidsuno Mainboard×1|Obstacle Avoidance Sensor×1|270°Servo×1|
@@ -20,7 +22,8 @@ The following are the tools we need.
 
 
 ## 3. Installation Steps
-Please refer to the following link：[https://www.dropbox.com/scl/fo/whacdlki5y44kevau03qa/h?dl=0&rlkey=ogbigsw7lxv8zhkvr1oqhlkmz](https://www.dropbox.com/scl/fo/whacdlki5y44kevau03qa/h?dl=0&rlkey=ogbigsw7lxv8zhkvr1oqhlkmz)
+
+Please refer to the following link：https://www.dropbox.com/scl/fo/whacdlki5y44kevau03qa/h?dl=0&rlkey=ogbigsw7lxv8zhkvr1oqhlkmz
 
 
 ## 4. Function: Read the Obstacle Avoidance Sensor
@@ -28,6 +31,7 @@ Please refer to the following link：[https://www.dropbox.com/scl/fo/whacdlki5y4
 ![Img](../media/613.png)
 
 ## 5. Wiring Diagram
+
 Connect the kidsuno mainboard and computer via a USB cable, and connect the servo to the G, V and D13 interface of the mainboard and the obstacle avoidance sensor to the No.1 interface of the mainboard.
 
 <span style="color: rgb(255, 76, 65);">Note:</span> The brown wire is connected to G, the red wire is connected to V and the orange wire is connected to D13.
@@ -35,6 +39,7 @@ Connect the kidsuno mainboard and computer via a USB cable, and connect the serv
 ![Img](../media/614.png)
 
 ## 6. Write the Program
+
 ① Drag the instruction block ![Img](../media/615.png) in the **Events** module to the script area.
 
 ![Img](../media/616.png)
@@ -69,6 +74,7 @@ Connect the kidsuno mainboard and computer via a USB cable, and connect the serv
 
 
 ## 7. Test Result
+
 Click![Img](../media/631.png) to upload the complete program to the kidsuno mainboard and power up, then click ![Img](../media/632.png) in the serial monitor area to set the baud rate to 9600. When the obstacle avoidance sensor detects an obstacle, the serial monitor will print a digital signal 0, otherwise, it will print 1.
 
 ![Img](../media/919.png)
@@ -82,6 +88,7 @@ Click![Img](../media/631.png) to upload the complete program to the kidsuno main
 
 
 ## 9. Flow Chart 
+
 First, set the angle of the servo to 32°. When the obstacle avoidance sensor detects an obstacle, the servo will rotate to 100°, otherwise it will not rotate.
 
 ![Img](../media/635.png)
@@ -125,6 +132,7 @@ First, set the angle of the servo to 32°. When the obstacle avoidance sensor de
 ![Img](../media/645.png)
 
 ## 12. Test Result
+
 Click![Img](../media/631.png) to upload the complete program to the kidsuno mainboard and power up. When the obstacle avoidance sensor detects an obstacle, the servo will rotate to 100° and the barrier gate will open, otherwise it will not rotate and the barrier gate will close.
 
 ![Img](../media/img-20230714083213.png)

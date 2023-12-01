@@ -5,9 +5,11 @@
 ![Img](../media/211.png)
 
 ## 1. Introduction
+
 Today, I was walking home from school when I saw the traffic light beep at the intersection. Can we add a sound to the traffic light module in project 01? Let's take a look at the tools first.
 
 ## 2. Components
+
 |![Img](../media/KidsunoMainboard.png)|![Img](../media/TrafficLightModule.png)|![Img](../media/ActiveBuzzer.png)|
 | :--: | :--: | :--: |
 |Kidsuno Mainboard×1|Traffic Light Module×1|Active Buzzer×1|
@@ -18,7 +20,8 @@ Today, I was walking home from school when I saw the traffic light beep at the i
 
 
 ## 3. Installation Steps
-Please refer to the following link：[https://www.dropbox.com/scl/fo/whacdlki5y44kevau03qa/h?dl=0&rlkey=ogbigsw7lxv8zhkvr1oqhlkmz](https://www.dropbox.com/scl/fo/whacdlki5y44kevau03qa/h?dl=0&rlkey=ogbigsw7lxv8zhkvr1oqhlkmz)
+
+Please refer to the following link：https://www.dropbox.com/scl/fo/whacdlki5y44kevau03qa/h?dl=0&rlkey=ogbigsw7lxv8zhkvr1oqhlkmz
 
 ## 4. Function: Make the Active Buzzer Sound
 
@@ -30,6 +33,7 @@ Connect the mainboard and computer via a USB cable, and connect the traffic ligh
 ![Img](../media/214.png)
 
 ## 6. Write the Program
+
 ① Drag the instruction block![Img](../media/215.png) in the **Events** module to the script area.
 
 ![Img](../media/216.png)
@@ -48,6 +52,7 @@ Connect the mainboard and computer via a USB cable, and connect the traffic ligh
 
 
 ## 7. Test Result
+
 Click ![Img](../media/222.png) to upload the complete program to the kidsuno mainboard and power up, then the active buzzer will sound. It seems pretty amazing, right?
 
 ![Img](../media/915.png)
@@ -57,6 +62,7 @@ Click ![Img](../media/222.png) to upload the complete program to the kidsuno mai
 ![Img](../media/223.png)
 
 ## 9. Write the Program
+
 ① change the **high** in the previous program to **low**.
 
 ![Img](../media/224.png)
@@ -82,6 +88,7 @@ Click ![Img](../media/222.png) to upload the complete program to the kidsuno mai
 ![Img](../media/233.png)
 
 ## 10. Test Result
+
 Click ![Img](../media/222.png) to upload the complete program to the kidsuno mainboard and power up, then the active buzzer will beep. It seems pretty amazing, right?
 
 ![Img](../media/915.png)
@@ -91,6 +98,7 @@ Click ![Img](../media/222.png) to upload the complete program to the kidsuno mai
 ![Img](../media/234.png)
 
 ## 12. Flow Chart 
+
 First the three LED lights will be off the buzzer will not beep, then the buzzer beeps and the red light flashes for 5 s then goes off , then the yellow light flashes for 3 times then goes off, then the green light will be on for 5 s then go off.
 
 ![Img](../media/235.png)
@@ -113,6 +121,7 @@ First the three LED lights will be off the buzzer will not beep, then the buzzer
 ![Img](../media/239.png)
 
 ## 14. Test Result
+
 Click ![Img](../media/222.png) to upload the complete program to the kidsuno mainboard and power up, then the buzzer beeps and the red light flashes for 5 s then it won’t beep and the light will be off , then the yellow light flashes for 3 times then goes off, then the green light will be on for 5 s then go off.
 
 ![Img](../media/916.png)
