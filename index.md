@@ -5,14 +5,14 @@
 <br>
 ![Img](./media/img-20230718101931.jpg)
 
-## 1.Product Introduction:
+# 1.Product Introduction:
 
 Based on Arduino and compatible with Lego series, intelligent traffic is a kidsbits STEM project dedicated to programming education for children aged 6-9. It integrates multitudes of sensors and modules such as traffic lights, a photoresistor, a white LED, a PIR motion sensor, a 8*8 dot matrix display and an active buzzer. In this connection, it is easy for you to DIY multiple intriguing projects including street lamps, an automatic door, windshield wipers as well as an integrated traffic system.
 
 Just as important is that Scratch graphical programming software allows children to learn from the simplest codes and master systematic programming knowledge. Meanwhile, the Lego series can be used to build various shapes and inject some basic physics and mechanical knowledge to children, thus greatly boosting their logical analysis ability, creative ability, hands-on ability and problem-solving ability.
 
 
-## 2.Kit:
+# 2.Kit:
 | # | Component | QTY | Picture |
 | :--: | :--: | :--: |:--: |
 | 1 | Kidsuno Mainboard | 1 | ![Img](./media/KidsunoMainboard.png) |
@@ -41,7 +41,7 @@ Just as important is that Scratch graphical programming software allows children
 | 24 | Integrated Traffic System | 1 |![Img](./media/IntegratedTrafficSystem.png) |
 
 
-## 3.Tutorial:
+# 3.Tutorial:
 
 - [1.Mainboard_Introduction](1.Mainboard_Introduction/Mainboard_Introduction.md)
 
