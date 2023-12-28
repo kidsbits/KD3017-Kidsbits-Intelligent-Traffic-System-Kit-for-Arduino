@@ -4,6 +4,8 @@
    :caption: keyestudio docs
 
    home.md
+   kidsblock/kidsblock.md
+   projects/projects.md
  
 
 
