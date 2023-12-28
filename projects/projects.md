@@ -1165,11 +1165,11 @@ Note: The color of the building blocks is subject to the actual object.
 |   ![](media/0d2b79edfe827d5b3271edbc26b776bf.jpeg) |
 |----------------------------------------------------|
 
-| ![](media/8abdea7078ca500befa8d0fc8b0f08cf.jpeg)  Before installing the servo, please initialize its angle     <br>  ![](media/445b388c740c15f5c16d65607cce8e7c.png)  Code for initializing the servo <br>  ![](media/sevro.png) |
+| ![](media/8abdea7078ca500befa8d0fc8b0f08cf.jpeg) <br> Before installing the servo, please initialize its angle     <br>  ![](media/445b388c740c15f5c16d65607cce8e7c.png)  Code for initializing the servo <br>  ![](media/sevro.png) |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
-|  ![](media/e9d49435c4ca6a0c5aed89cd690f884e.jpeg)  ×1 |               ![](media/be6368e4eda1cf7aaabdbcf6364ee2b9.png)Mind the position of -the wires |
-|-------------------------------------------------------|----------------------------------------------------------------------------------------------|
+|  ![](media/e9d49435c4ca6a0c5aed89cd690f884e.jpeg)  ×1       <br>       ![](media/be6368e4eda1cf7aaabdbcf6364ee2b9.png)<br>Mind the position of -the wires |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------|
 
 | ![](media/19710ff123410e7531703716f0d389fb.png)        <br>         Make sure the fitting is <br>![](media/bf81f97f91be78a7dc91eedf7d730e65.png)connected to the servo |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------|
