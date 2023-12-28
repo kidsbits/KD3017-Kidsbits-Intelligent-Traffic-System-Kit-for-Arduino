@@ -1355,8 +1355,8 @@ The following are the tools we need.
 |       ![](media/project-6.png) |
 |--------------------------------------------------------|
 
-| ![](media/fc788bb5aad5256901714e4121641016.png) ![](media/b94569b97200a0268a7d09e97f57968c.jpeg) ×1 |  ![](media/02ecaf3e3028041ac7647052644f68ee.jpeg) ×3 |  ![](media/5537d2db7d8e470054aea7b4467e97e6.jpeg) ×2 | ![](media/4bd902b9cec463cfadceba45a3d2de90.jpeg) ×1 | ![](media/451b2c28c59958c4781d21ed20605e70.jpeg)  ×1 |
-|-----------------------------------------------------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|-----------------------------------------------------|------------------------------------------------------|
+| ![](media/fc788bb5aad5256901714e4121641016.png) <br>![](media/b94569b97200a0268a7d09e97f57968c.jpeg) ×1 <br>  ![](media/02ecaf3e3028041ac7647052644f68ee.jpeg) ×3  <br> ![](media/5537d2db7d8e470054aea7b4467e97e6.jpeg) ×2 <br> ![](media/4bd902b9cec463cfadceba45a3d2de90.jpeg) ×1 <br> ![](media/451b2c28c59958c4781d21ed20605e70.jpeg)  ×1 |
+|---------------------------------------------------------------------------------------------------------------------------------------------------|
 
 |       ![](media/4763bf5ec728bc1a849d366b9fa5c604.jpeg) |
 |--------------------------------------------------------|
@@ -1403,7 +1403,7 @@ The following are the tools we need.
 |   ![](media/ab042bf714ec4bc909a1536d22568d0d.jpeg) |
 |----------------------------------------------------|
 
-| ![](media/8714362a476620ce1fa9e6266fb63727.png) <br> Before installing the servo, please initialize its angle <br> ![](media/445b388c740c15f5c16d65607cce8e7c.png) <br> Code for initializing the servo |      ![](media/sevro.jpeg) |
+| ![](media/8714362a476620ce1fa9e6266fb63727.png) <br> Before installing the servo, please initialize its angle <br> ![](media/445b388c740c15f5c16d65607cce8e7c.png) <br> Code for initializing the servo |      ![](media/sevro.png) |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------|
 
 |  ![](media/a53e6e66955a738fb4b4e41cccd77bcf.jpeg)           <br>       ![](media/27e18e2a27b8f4865428e0312e458408.png)<br>Mind the position of the wires <br>![](media/00a0437c08d5963160ae767b75b81237.png) |
@@ -1418,10 +1418,10 @@ The following are the tools we need.
 |      ![](media/084d046ba0e46b8836b8eb85ec409d87.jpeg) |
 |-------------------------------------------------------|
 
-|  When installing the barrier gate, ensure that it is parallel to the plate, otherwise it will affect the servo <br>![](media/9cee79c64c639b1638e62fe8715b93f1.png)angle                        <br>       Note:Do not rotate the barrier gate, which will change the servo angle |
+|  When installing the barrier gate, ensure that it is parallel to the plate, otherwise it will affect the servo angle <br>![](media/9cee79c64c639b1638e62fe8715b93f1.png) <br> Note:Do not rotate the barrier gate, which will change the servo angle |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
-| ![](media/8b9333a8a1a743825cab3923f08a02d7.jpeg)  Prototype |
+| ![](media/8b9333a8a1a743825cab3923f08a02d7.jpeg) <br> Prototype |
 |-------------------------------------------------------------|
 
 
