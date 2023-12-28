@@ -5,11 +5,10 @@
 
 The Kidsblock, based on the Scratch graphical programming software, integrates multiple mainstream mainboards, sensors as well as modules. It can be programmed by dragging graphical blocks and using the C/C++ programming language, making programming easy and interesting for children to learn.
 
-**Install Kidsblock Software---windows**
-
 **[Windows system](https://www.kidsblock.cn/Down/KidsBlock.exe)**
+**[MACOS system](https://www.kidsblock.cn/Down/KidsBlock-MACOS.dmg)**
 
-
+**Install Kidsblock Software---windows**
 
 1. Double click “KidsBlock Setup.exe”![Img](./media/123.png).
 
@@ -51,37 +50,36 @@ If it is the latest version, it will display.
 **Install Kidsblock Software---MacOS**
 
 
-1. Download link：**[MACOS system](https://www.kidsblock.cn/Down/KidsBlock-MACOS.dmg)**
 
-2. Double-click KidsBlock icon，then drag KidsBlock Desktop to the Applications folder.
+1. Double-click KidsBlock icon，then drag KidsBlock Desktop to the Applications folder.
 
 ![Img](./media/133.png)
 
-3. It’s installing the kidsblock program on your computer.
+2. It’s installing the kidsblock program on your computer.
 
 ![Img](./media/134.png)
 
-4. After the installation is finished, you will view the KidsBlock icon.
+3. After the installation is finished, you will view the KidsBlock icon.
 
 ![Img](./media/a.png)
 
-5. Click KidsBlock software icon to start the software, it shows that it can't be opened, because the default Apple computer only allows the installation of software in the App Store, other software is not allowed to install. Thus we need to modify the computer settings to start the software.
+4. Click KidsBlock software icon to start the software, it shows that it can't be opened, because the default Apple computer only allows the installation of software in the App Store, other software is not allowed to install. Thus we need to modify the computer settings to start the software.
 
 ![Img](./media/ab.png)
 
-6. Open your computer's settings interface, click Privacy & Security, switch the security option to "App Store and identified developers", then click "Open Anyway".
+5. Open your computer's settings interface, click Privacy & Security, switch the security option to "App Store and identified developers", then click "Open Anyway".
 
 ![Img](./media/abc.png)
 
-7. Tap Open.
+6. Tap Open.
 
 ![Img](./media/abcd.png)
 
-8. Open the software.
+7. Open the software.
 
 ![Img](./media/abcde.png)
 
-9. It is the software interface.
+8. It is the software interface.
 
 ![Img](./media/abcdef.png)
 
