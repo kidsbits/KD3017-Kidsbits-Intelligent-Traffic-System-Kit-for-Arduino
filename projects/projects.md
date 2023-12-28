@@ -5,7 +5,7 @@
 
 ![Img](/media/111.png)
 
- Introduction
+**Introduction**
 
 I met a big traffic jam on my way to school today. The red light at the intersection where I waited lasted very long and the green light flashed a few times and then changed to yellow. It seems that there's something wrong with the traffic light's digital signal. 
 
@@ -14,7 +14,7 @@ Can we use a traffic light module to simulate the working principle of traffic l
 Let's take a look at the tools first.
 
 
- Components
+**Components**
 
 |![Img](/media/KidsunoMainboard.png)|![Img](/media/TrafficLightModule.png)|![Img](/media/ConnectionWire.png)|
 | :--: | :--: | :--: |
@@ -24,16 +24,89 @@ Let's take a look at the tools first.
 
 ![Img](/media/112.png)
 
- Component Knowledge
+**Component Knowledge**
+
 （1）Traffic lights are signal lights that command the traffic operation, which are generally composed of a red light, a green light and a yellow light. The red light means impassable, the green light means passable, and the yellow light means a warning.
 
 （2）To keep the light on, the electricity is needed. When we say that there is electricity, we mean that there is current flowing through an electrical appliance like a light. Current comes to our home from the power station via wires. And the generator of a power station is the power supply, which enables to provide voltage and current. The battery we usually use is also the power supply. Wires can be used to conduct electricity, which connect a path for the current to flow. This path is called a circuit. If we want to make a lamp emit light, both a power supply and a complete circuit are needed.
 
 ![Img](/media/113.png)
 
- Installation of Traffic Lights
 
-Please refer to the following link：https://www.dropbox.com/scl/fo/whacdlki5y44kevau03qa/h?dl=0&rlkey=ogbigsw7lxv8zhkvr1oqhlkmz
+**Installation of Traffic Lights**
+
+|      ![](media/project-1.png) |
+|-------------------------------------------------------|
+
+| ![](media/a52d0f94adb27b0ed6c1c97f292ded0d.png)  ![](media/7d6521e217111e9858b1636410419f15.jpeg) ×1   ![](media/58c48b663ef8534d032e05df52352a06.jpeg) ×1 |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+|      ![](media/9f2bad219c48845fc7e9b8eb79f15310.jpeg) |
+|-------------------------------------------------------|
+
+| ![](media/505c99f64ce992d7bef7241264a3e50a.png) ![](media/4120114dea6c13ef2886f37975593af3.jpeg)  ×1 |
+|------------------------------------------------------------------------------------------------------|
+
+|        ![](media/0088ff5906b33f98d9438931db3013de.jpeg) |
+|---------------------------------------------------------|
+
+| ![](media/70a756797204b7caae989b1cf7bc30b5.png) ![](media/ac96ba06672c266c1c963e3372faacbf.jpeg) ×1 |
+|-----------------------------------------------------------------------------------------------------|
+
+|      ![](media/5ffe0388602cda38c0a7cdb25b0e264c.jpeg) |
+|-------------------------------------------------------|
+
+| ![](media/98c8f3de89f731c58b319637196e4d06.png) ![](media/4f5d463b2951635d9ee07c97787a8654.jpeg) ×1 |
+|-----------------------------------------------------------------------------------------------------|
+
+|    ![](media/71b64a93ec867548a889ae447a482288.jpeg) |
+|-----------------------------------------------------|
+
+| ![](media/6937c699a26758a6add3c3adacfeb0a3.png)   ![](media/af57c4fa67ab54e53421709867df2bb0.jpeg) ×1    ![](media/9624599b741be5c4dcdf55d7103d8937.jpeg) ×1 |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+|    ![](media/0205f61625a97b288118148872a7b83e.jpeg) |
+|-----------------------------------------------------|
+
+| ![](media/403db89c8dd755ed4a7f4065574e0b98.jpeg)![](media/365439f309d94e1845facb924e479145.jpeg)  ×1  |
+|-------------------------------------------------------------------------------------------------------|
+
+| ![](media/8abaa01eca479fe081331b09b4cdc1dd.png) ![](media/77a0d69f6b5bed5477a48e970dfe7b57.jpeg) ×2   ![](media/0cb194ffb8daa2f2268aed63f717a17a.jpeg) ×1   ![](media/a10ebea81ea144a1496473533578b1f4.jpeg) ×1 |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+|        ![](media/48cf1ee5333aa7ac23fed49b2e21b48a.jpeg) |
+|---------------------------------------------------------|
+
+| ![](media/484ee3c5390b0c0f353063fc83c943c3.png) ![](media/fdebfd3ea175fbef23ab8f986729e1cc.jpeg) ×1 |
+|-----------------------------------------------------------------------------------------------------|
+
+|   ![](media/1dcc1869d840c5ca3c7dde80e30aab84.jpeg) |
+|----------------------------------------------------|
+
+| ![](media/58cd66e6a8f6096291ecd68374b21e95.png) ![](media/d3e53bb8cfb08abd959b8469e66f3868.jpeg)  ×1 |
+|------------------------------------------------------------------------------------------------------|
+
+|    ![](media/cd9587d0da888c8c6ed86237e5fd8cff.jpeg) |
+|-----------------------------------------------------|
+
+| ![](media/5a7eae211ce688aaa6144796f86dc9a7.png) ![](media/78deb80c6a215df7e357c2b17fa6b476.jpeg) ×2 |
+|-----------------------------------------------------------------------------------------------------|
+
+|   ![](media/a752b951b38cb4081dde2b3ff7ecc079.jpeg) |
+|----------------------------------------------------|
+
+| ![](media/bce352d14702480bc76b965e842462b5.png) ![](media/7a593393f4fe45f8dee840bb63400c59.jpeg)  ×1 |
+|------------------------------------------------------------------------------------------------------|
+
+|   ![](media/b2c2f67a4f5ae3994ca7f5c5d99eb831.jpeg) |
+|----------------------------------------------------|
+
+| ![](media/d081b93a5edce25a8b34cc306adf6dbe.jpeg)  Prototype |
+|-------------------------------------------------------------|
+
+|  ![](media/af4571da6264bb068e0aa88953a8fd89.jpeg) |
+|---------------------------------------------------|
+
 
  Function: Light Up the Traffic Lights
 
