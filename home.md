@@ -85,6 +85,11 @@ Importantly, we enable to connect it to a computer via a USB-C cable, or use a D
 
 ![Img](./media/PortsDescription.png)
 
+
+
+![Img](./media/kd2075.png)
+
+
  Mainboard External Battery Holder
 
 ![Img](./media/Mainboardexternalbatteryholder.png)
