@@ -1,7 +1,7 @@
 
 .. toctree::
    :maxdepth: 3
-   :caption: keyestudio docs
+   :caption: Kidsbits Intelligent Traffic System Kit 
 
    home.md
    kidsblock/kidsblock.md
