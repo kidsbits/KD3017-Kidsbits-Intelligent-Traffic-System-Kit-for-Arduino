@@ -851,7 +851,7 @@ Note: The color of the building blocks is subject to the actual object.
 | Before installing the servo, please initialize its angle                            |                                                    |
 |-------------------------------------------------------------------------------------|----------------------------------------------------|
 |     ![](media/bb4bb7fad810f12a0a992a6aa3ee5d1e.png)                                 |   ![](media/5e54a53389bd6e1f4c507a00da785d27.jpeg) |
-|   Code for initializing the servo   ![](media/85476a7879a6967a8f3115a7346adef6.png) |                                                    |
+|   Code for initializing the servo   ![](media/sevro.png) |                                                    |
 
 | ![](media/bc461597647a95c1aa2b691735319be8.jpeg)<br>![](media/0da61e7267d629f973a30142b02db827.png)  **×1**<br> ![](media/c60b385d039b98ab4dd978f6c1d5e76c.png) |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------|
